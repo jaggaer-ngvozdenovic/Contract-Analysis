@@ -1,0 +1,39 @@
+{
+    "version": 1,
+    "storagePolicy": "wandb-storage-policy-v1",
+    "storagePolicyConfig": {
+        "storageLayout": "V2"
+    },
+    "contents": {
+        "config.json": {
+            "digest": "s6L0kqrvZNzDdDTVTPXgOw==",
+            "birthArtifactID": "QXJ0aWZhY3Q6MTM1OTE3OQ==",
+            "size": 822
+        },
+        "pytorch_model.bin": {
+            "digest": "vdlm7UBGvCiReOuE0dduVQ==",
+            "birthArtifactID": "QXJ0aWZhY3Q6MTM1OTE3OQ==",
+            "size": 709146103
+        },
+        "special_tokens_map.json": {
+            "digest": "iz+xAjFnu0q51wcI6wX27A==",
+            "birthArtifactID": "QXJ0aWZhY3Q6MTM1OTE3OQ==",
+            "size": 112
+        },
+        "tokenizer_config.json": {
+            "digest": "Lu103503c4Za6Phkho0CaQ==",
+            "birthArtifactID": "QXJ0aWZhY3Q6MTM1OTE3OQ==",
+            "size": 264
+        },
+        "training_args.bin": {
+            "digest": "ynCmLE6byUg2BWOzRWnyVw==",
+            "birthArtifactID": "QXJ0aWZhY3Q6MTM1OTE3OQ==",
+            "size": 2287
+        },
+        "vocab.txt": {
+            "digest": "2dhlE40X8ZWFAu0GDs/utg==",
+            "birthArtifactID": "QXJ0aWZhY3Q6MTM1OTE3OQ==",
+            "size": 995526
+        }
+    }
+}
